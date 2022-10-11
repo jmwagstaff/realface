@@ -1,0 +1,9 @@
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+
+title: Jacques Wagstaff
+description: Synthetic face detector
+
+author:
+  name: Jacques Wagstaff
